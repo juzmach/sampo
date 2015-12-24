@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/juzmach/sampo.svg)](https://travis-ci.org/juzmach/sampo)
+
 # Sampo
 
 Project initializer for Ansible role development.
@@ -8,17 +10,11 @@ While ```ansible-galaxy init``` works, it does not do everything I want like set
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'sampo'
-```
-
-And then execute:
+Execute:
 
     $ bundle
 
-Or install it yourself as:
+And install it yourself as:
 
     $ gem install sampo
 
